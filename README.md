@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on @universalcontrole
 - 🌱 I’m currently learning Web Design
 - 🤔 I’m not looking to be the best developer, I'm looking to develop best softwares
